@@ -1,0 +1,16 @@
+^\.travis\.yml$
+LICENSE
+README.md
+.gitignore
+.rhistory
+.gitattribute
+.vs
+.git
+.rproj
+.rxproj
+.sln
+^.*\.Rproj$
+^\.Rproj\.user$
+^alphaR
+^oldR
+^vignettes/_quickstart.rmd$
