@@ -14,3 +14,4 @@ README.md
 ^alphaR
 ^oldR
 ^vignettes/_quickstart.rmd$
+^data-raw$
